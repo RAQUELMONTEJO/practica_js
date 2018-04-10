@@ -1,0 +1,20 @@
+
+/*estilos del formulario*/
+
+/*estilos de la tabla*/
+table {
+    font-family: verdana, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 2px solid rgba(255, 0, 0, 0.3);
+    text-align: left;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: rgba(255, 0, 0, 0.2);
+}
